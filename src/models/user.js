@@ -9,7 +9,7 @@ class User {
         if (!this.name || !this.email) {
             throw new Error('Name and email are required');
         }
-        // Additional validation logic can be added here
+        // Additional validation logic can be added here 
     }
 }
 
